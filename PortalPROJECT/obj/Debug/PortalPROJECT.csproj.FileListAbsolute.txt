@@ -1,0 +1,10 @@
+C:\Users\ashuu\source\repos\PortalPROJECT\PortalPROJECT\obj\Debug\PortalPROJECT.csprojAssemblyReference.cache
+C:\Users\ashuu\source\repos\PortalPROJECT\PortalPROJECT\obj\Debug\PortalPROJECT.Form1.resources
+C:\Users\ashuu\source\repos\PortalPROJECT\PortalPROJECT\obj\Debug\PortalPROJECT.Properties.Resources.resources
+C:\Users\ashuu\source\repos\PortalPROJECT\PortalPROJECT\obj\Debug\PortalPROJECT.csproj.GenerateResource.cache
+C:\Users\ashuu\source\repos\PortalPROJECT\PortalPROJECT\obj\Debug\PortalPROJECT.csproj.CoreCompileInputs.cache
+C:\Users\ashuu\source\repos\PortalPROJECT\PortalPROJECT\bin\Debug\PortalPROJECT.exe.config
+C:\Users\ashuu\source\repos\PortalPROJECT\PortalPROJECT\bin\Debug\PortalPROJECT.exe
+C:\Users\ashuu\source\repos\PortalPROJECT\PortalPROJECT\bin\Debug\PortalPROJECT.pdb
+C:\Users\ashuu\source\repos\PortalPROJECT\PortalPROJECT\obj\Debug\PortalPROJECT.exe
+C:\Users\ashuu\source\repos\PortalPROJECT\PortalPROJECT\obj\Debug\PortalPROJECT.pdb
